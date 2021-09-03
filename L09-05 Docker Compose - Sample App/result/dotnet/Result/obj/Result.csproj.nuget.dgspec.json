@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Work\\K8s Academy Online\\Azure Online\\Hands-On\\L09-06 Docker Compose - Sample App\\Code\\result\\dotnet\\Result\\Result.csproj": {}
+  },
+  "projects": {
+    "c:\\Work\\K8s Academy Online\\Azure Online\\Hands-On\\L09-06 Docker Compose - Sample App\\Code\\result\\dotnet\\Result\\Result.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Work\\K8s Academy Online\\Azure Online\\Hands-On\\L09-06 Docker Compose - Sample App\\Code\\result\\dotnet\\Result\\Result.csproj",
+        "projectName": "Result",
+        "projectPath": "c:\\Work\\K8s Academy Online\\Azure Online\\Hands-On\\L09-06 Docker Compose - Sample App\\Code\\result\\dotnet\\Result\\Result.csproj",
+        "packagesPath": "C:\\Users\\guyba\\.nuget\\packages\\",
+        "outputPath": "c:\\Work\\K8s Academy Online\\Azure Online\\Hands-On\\L09-06 Docker Compose - Sample App\\Code\\result\\dotnet\\Result\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\guyba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[1.50.5, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

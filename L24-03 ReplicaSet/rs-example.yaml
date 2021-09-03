@@ -1,0 +1,28 @@
+apiVersion: apps/v1
+kind: ReplicaSet
+metadata:
+ name: rs-example
+spec:
+ replicas: 3
+ selector:
+   matchLabels:
+     app: nginx
+     type: front-end
+ template: 
+   metadata:
+     labels:
+       app: nginx
+       type: front-end
+   spec:
+     containers:
+     - name: nginx
+       image: nginx:alpine
+       resources:
+         requests:
+           cpu: 100m
+           memory: 128Mi
+         limits:
+           cpu: 250m
+           memory: 256Mi 
+       ports:
+       - containerPort: 80

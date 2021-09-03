@@ -1,0 +1,32 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: hello-v2
+spec:
+  replicas: 3
+  strategy:
+    type: RollingUpdate
+    rollingUpdate:
+      maxSurge: 1
+      maxUnavailable: 1
+  selector:
+    matchLabels:
+      app: hello-v2
+  template:
+    metadata:
+      labels:
+        app: hello-v2
+    spec:
+      containers:
+      - image: k8sacademy/hello-app:2.0
+        resources:
+          requests:
+            cpu: 100m
+            memory: 128Mi
+          limits:
+            cpu: 250m
+            memory: 256Mi      
+        imagePullPolicy: Always
+        name: hello-v2
+        ports:
+        - containerPort: 8080

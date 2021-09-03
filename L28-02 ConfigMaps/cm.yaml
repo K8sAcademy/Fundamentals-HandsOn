@@ -1,0 +1,8 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: cm-example
+data:
+  state: Michigan
+  city: Ann Arbor
+
