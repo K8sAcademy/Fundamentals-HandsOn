@@ -1,0 +1,22 @@
+services:
+  web-fe:
+    build: .
+    command: python app.py
+    ports:
+      - "5000:80"
+    networks:
+      - counter-net
+    volumes:
+      - type: volume
+        source: counter-vol
+        target: /code
+  redis:
+    image: "redis:alpine"
+    networks:
+      counter-net:
+
+networks:
+  counter-net:
+
+volumes:
+  counter-vol:
