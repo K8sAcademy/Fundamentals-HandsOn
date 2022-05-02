@@ -1,8 +1,0 @@
-<Project Sdk="Microsoft.NET.Sdk.Web">
-
-  <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>L07_02_Multi_Stage_Build</RootNamespace>
-  </PropertyGroup>
-
-</Project>
