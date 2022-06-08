@@ -1,24 +1,10 @@
-version: "3.5"
 services:
   web-fe:
     build: .
     command: python app.py
     ports:
-      - target: 5000
-        published: 5000
-    networks:
-      - counter-net
-    volumes:
-      - type: volume
-        source: counter-vol
-        target: /code
+      - 5000:5000
   redis:
     image: "redis:alpine"
-    networks:
-      counter-net:
-
-networks:
-  counter-net:
-
-volumes:
-  counter-vol:
+    ports:
+      - 6379

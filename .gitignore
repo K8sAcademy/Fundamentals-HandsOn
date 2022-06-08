@@ -17,3 +17,12 @@ L09-05 Docker Compose - Sample App/vote/dotnet/Vote/obj/Debug/netcoreapp2.1/Vote
 L09-05 Docker Compose - Sample App/vote/dotnet/Vote/obj/Debug/netcoreapp2.1/Vote.csproj.AssemblyReference.cache
 L09-05 Docker Compose - Sample App/worker/dotnet/Worker/obj/Debug/netcoreapp2.1/Worker.assets.cache
 L09-05 Docker Compose - Sample App/worker/dotnet/Worker/obj/Debug/netcoreapp2.1/Worker.csproj.AssemblyReference.cache
+L07-02 Multi Stage Build/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+L07-02 Multi Stage Build/obj/Debug/net6.0/Code.AssemblyInfo.cs
+L07-02 Multi Stage Build/obj/Debug/net6.0/Code.AssemblyInfoInputs.cache
+L07-02 Multi Stage Build/obj/Debug/net6.0/Code.csproj.AssemblyReference.cache
+L07-02 Multi Stage Build/obj/Debug/net6.0/Code.GeneratedMSBuildEditorConfig.editorconfig
+L07-02 Multi Stage Build/obj/Debug/net6.0/Code.GlobalUsings.g.cs
+L07-02 Multi Stage Build/obj/Debug/net6.0/Code.RazorAssemblyInfo.cache
+L07-02 Multi Stage Build/obj/Debug/net6.0/Code.RazorAssemblyInfo.cs
+L07-02 Multi Stage Build/obj/Debug/net6.0/project.razor.json

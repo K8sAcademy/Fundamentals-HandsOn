@@ -1,0 +1,29 @@
+{
+  "name": "node-docker-good-defaults",
+  "private": true,
+  "version": "2.0.1",
+  "description": "Node.js Hello world app using docker features for easy docker compose local dev and solid production defaults",
+  "author": "Bret Fisher <bret@bretfisher.com>",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "start-watch": "nodemon src/index.js --inspect=0.0.0.0:9229",
+    "start-wait-debuger": "nodemon src/index.js --inspect-brk=0.0.0.0:9229",
+    "test": "cross-env NODE_ENV=test PORT=8081 mocha --timeout 10000 --exit --inspect=0.0.0.0:9230",
+    "test-watch": "nodemon --exec \"npm test\"",
+    "test-wait-debuger": "cross-env NODE_ENV=test PORT=8081 mocha --no-timeouts --exit --inspect-brk=0.0.0.0:9230"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.95.11",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.1.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "cross-env": "^7.0.2",
+    "mocha": "^9.2.2",
+    "nodemon": "^2.0.4"
+  }
+}
