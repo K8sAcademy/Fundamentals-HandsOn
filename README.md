@@ -1,13 +1,14 @@
-# Fundamentals-HandsOn
+# Docker and Kubernetes Fundamentals Hands-On labs
 
-<img src="https://kubernetesacademy.online/wp-content/uploads/2021/08/BadgeFundamentalsEN.svg" width=200px>
+<img src="https://kubernetesacademy.online/wp-content/uploads/2021/08/BadgeFundamentalsEN.svg" width=200px><img src="https://kubernetesacademy.online/wp-content/uploads/2021/08/Free.webp" width=150px>
 
 Files for the **Docker and Kubernetes Fundamentals** Hands-On labs
 
-https://kubernetesacademy.online
+https://kubernetesacademy.online/product/docker-containers-and-kubernetes-fundamentals/
 
 ## About this course
 
+- FREE COURSE
 - Duration: 6+ hours of video training.
 - 94 lectures.
 - 37 Hands-On labs with step-by-step instructions and source code.
@@ -105,8 +106,8 @@ https://guybarrette.com @GuyBarrette
 
 ## Live Instructor-Led Classes
 
-<img src="https://kubernetesacademy.online/wp-content/uploads/2021/05/Event-Feature-1-1024x576.webp" width=400px>
+<img src="https://kubernetesacademy.online/wp-content/uploads/2021/05/Event-Feature-1-1024x576.webp" width=600px>
 
-I also offer live instructor-led public and private classes over Zoom/Teams.
+I also offer live instructor-led public and private classes over Zoom/Teams: https://kubernetesacademy.online/virtual-classes/
 
-https://kubernetesacademy.online/virtual-classes/
+Groups/Corporate private classes: https://kubernetesacademy.online/groups-corporate/
