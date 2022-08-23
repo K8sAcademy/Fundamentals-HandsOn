@@ -98,9 +98,7 @@ https://guybarrette.com @GuyBarrette
 
 ## Also Available
 
-<img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/BadgeAzure-EN-1.svg" width=200px style="padding:20px;"><img src="https://kubernetesacademy.online/wp-content/uploads/2021/07/BadgeDigitalOceanEN.svg" width=200px style="padding:20px;">
-
-<img src="https://kubernetesacademy.online/wp-content/uploads/2021/07/BadgeLinodeEN.svg" width=200px style="padding:20px;"><img src="https://kubernetesacademy.online/wp-content/uploads/2022/04/BadgeGoogleCloudEN.svg" width=200px style="padding:20px;">
+<img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/BadgeAzure-EN-1.svg" width=200px><img src="https://kubernetesacademy.online/wp-content/uploads/2021/07/BadgeDigitalOceanEN.svg" width=200px><img src="https://kubernetesacademy.online/wp-content/uploads/2021/07/BadgeLinodeEN.svg" width=200px><img src="https://kubernetesacademy.online/wp-content/uploads/2022/04/BadgeGoogleCloudEN.svg" width=200px>
 
 ---
 
