@@ -6,6 +6,10 @@ Files for the **Docker and Kubernetes Fundamentals** Hands-On labs
 
 https://kubernetesacademy.online/product/docker-containers-and-kubernetes-fundamentals/
 
+Changelog: https://kubernetesacademy.online/changelog/
+
+Backlog: https://github.com/users/guybarrette/projects/1
+
 ## About this course
 
 - FREE COURSE
