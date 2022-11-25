@@ -4,11 +4,7 @@
 
 Files for the **Docker and Kubernetes Fundamentals** Hands-On labs
 
-https://kubernetesacademy.online/product/docker-containers-and-kubernetes-fundamentals/
-
-Changelog: https://kubernetesacademy.online/changelog/
-
-Backlog: https://github.com/users/guybarrette/projects/1
+The setup instructions are listed in this file at the root of the repo: K8sFundamentals-SetupGuide-V3.pdf
 
 ## About this course
 
@@ -16,13 +12,11 @@ Backlog: https://github.com/users/guybarrette/projects/1
 - Duration: 6+ hours of video training.
 - 94 lectures.
 - 37 Hands-On labs with step-by-step instructions and source code.
-- Unlimited access for 365 days.
 - Level: Introduction.
 - No pre-requisites – Ideal for beginners. No coding experience is required.
 - Target audience: Developers, DevOps, SREs and I.T. Pros.
 - Required material: a laptop/PC/Mac supporting virtualization and capable of running Docker Desktop.
 - Supported OS: Windows, MacOS and Linux (Ubuntu).
-- Une version avec narration française est aussi offerte.
 
 ### Docker
 
@@ -58,34 +52,6 @@ You’ll learn about microservices and their use cases. You’ll then learn abou
 
 ---
 
-## The Learning Experience
-
-### Learn the concepts
-
-<img src="https://kubernetesacademy.online/wp-content/uploads/2022/03/course1_dell-xps15-front2.webp" width=250px>
-
-Start learning the concepts by watching short lectures.
-
-### Learn to apply the concepts
-
-<img src="https://kubernetesacademy.online/wp-content/uploads/2022/03/course2_dell-xps15-front.webp" width=250px>
-
-The instructor shows you how to apply what you just learned in short hands-on labs.
-
-### Hands On
-
-<img src="https://kubernetesacademy.online/wp-content/uploads/2022/03/course3_dell-xps15-front.webp" width=250px>
-
-Each lab comes with a complete set of step by step instructions, source code, and YAML files.
-
-### Try and experiment
-
-<img src="https://kubernetesacademy.online/wp-content/uploads/2022/03/course4_dell-xps15-front.webp" width=250px>
-
-Open VS Code and simply copy/paste the commands in the built-in terminal.
-
----
-
 ## Meet your Instructor​
 
 <img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/GuyBarrette-Square-min.png" width=250px>
@@ -94,22 +60,4 @@ Guy Barrette is a developer/trainer with more then 25 years of experience. He wo
 
 <img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/ckad-min-150x150.png" width=100px><img src="https://kubernetesacademy.online/wp-content/uploads/2021/11/KCNA-340px-150x150.webp" width=100px><img src="https://kubernetesacademy.online/wp-content/uploads/2022/03/hashicorp-certified-terraform-associate-340px-150x150.webp" width=100px><img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/Google-Associate-Cloud-Engineer-min-150x150.png" width=100px><img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/AWS-CloudPractitioner-2020-min-150x150.png" width=100px><img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/MVP_Logo_Square-min-150x150.png" width=100px><img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/azure-fundamentals-min-150x150.png" width=100px><img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/azure-developer-associate-min-150x150.png" width=100px>
 
-https://kubernetesacademy.online @K8s_Online
-
-https://guybarrette.com @GuyBarrette
-
----
-
-## Also Available
-
-<img src="https://kubernetesacademy.online/wp-content/uploads/2021/01/BadgeAzure-EN-1.svg" width=200px><img src="https://kubernetesacademy.online/wp-content/uploads/2021/07/BadgeDigitalOceanEN.svg" width=200px><img src="https://kubernetesacademy.online/wp-content/uploads/2021/07/BadgeLinodeEN.svg" width=200px><img src="https://kubernetesacademy.online/wp-content/uploads/2022/04/BadgeGoogleCloudEN.svg" width=200px>
-
----
-
-## Live Instructor-Led Classes
-
-<img src="https://kubernetesacademy.online/wp-content/uploads/2021/05/Event-Feature-1-1024x576.webp" width=600px>
-
-I also offer live instructor-led public and private classes over Zoom/Teams: https://kubernetesacademy.online/virtual-classes/
-
-Groups/Corporate private classes: https://kubernetesacademy.online/groups-corporate/
+https://guybarrette.com @GuyBarrette @guybarrette@techhub.social
