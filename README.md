@@ -2,7 +2,7 @@
 
 Files for the **Docker and Kubernetes Fundamentals** Hands-On labs
 
-[FreeCodeCamp](https://www.youtube.com/watch?v=kTp5xUtcalw "Watch the course on FreeCodeCamp's YouTube channel.")
+[Watch the course on FreeCodeCamp's YouTube channel.](https://www.youtube.com/watch?v=kTp5xUtcalw "Watch the course")
 
 The setup instructions are listed in this file at the root of the repo: K8sFundamentals-SetupGuide-V3.pdf
 
