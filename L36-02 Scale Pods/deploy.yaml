@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: php-apache
-        image: k8sacademy/hpa-example
+        image: guybarrette/hpa-example
         ports:
         - containerPort: 80
         resources:

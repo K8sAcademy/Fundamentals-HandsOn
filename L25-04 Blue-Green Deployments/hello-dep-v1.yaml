@@ -18,7 +18,7 @@ spec:
         app: hello-v1
     spec:
       containers:
-      - image: k8sacademy/hello-app:1.0
+      - image: guybarrette/hello-app:1.0
         resources:
           requests:
             cpu: 100m
