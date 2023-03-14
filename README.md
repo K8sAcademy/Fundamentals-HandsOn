@@ -30,10 +30,6 @@ Learn about the Kubernetes architecture and how it works. Run it locally and use
 
 This course does not require an account with a Cloud provider. Every lab runs locally using free software.
 
-### Better then YouTube videos
-
-Compared to watching YouTube videos, you get a much better learning experience. You can track your progress, take notes, copy/paste commands to run in the terminal.
-
 ---
 
 ## Description
